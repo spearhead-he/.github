@@ -1,6 +1,6 @@
 # SPEARHEAD
 
-<img align="right" height="150px" src="Spearhead-website-logo-512x512-white.png"> 
+<img align="right" height="120px" src="Spearhead-website-logo-512x512-white.png"> 
 
 _SPEcification, Analysis & Re-calibration of High Energy pArticle Data_ (SPEARHEAD) is an EU-funded project that through a detailed analysis of very high-energy particle observations from the most important heliophysics missions combined with ground based measurements aims to answer three science questions:
 
