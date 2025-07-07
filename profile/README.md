@@ -1,6 +1,6 @@
 # SPEARHEAD
 
-_SPEcification, Analysis & Re-calibration of High Energy pArticle Data_ (SPEARHEAD) is an EU-funded project that through a detailed analysis of very high-energy particle observations from the most important heliophysics missions combined with ground based measurements aims to answer three science questions:
+[_SPEcification, Analysis & Re-calibration of High Energy pArticle Data_ (SPEARHEAD)](https://spearhead-he.eu) is an EU-funded project that through a detailed analysis of very high-energy particle observations from the most important heliophysics missions combined with ground based measurements aims to answer three science questions:
 
 1. How are protons accelerated beyond 100 MeV and electrons beyond 1 MeV in solar eruptions?
 2. What are the release times and spectral characteristics of near-relativistic particles from solar eruptions?
